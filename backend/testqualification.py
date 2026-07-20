@@ -6,4 +6,4 @@ if score_user>60 and score_user<75:
 if score_user >= 90:
     print("You are qualified for the next round")
 else:
-    print("You are failed")
+    print("You are not qualified")
